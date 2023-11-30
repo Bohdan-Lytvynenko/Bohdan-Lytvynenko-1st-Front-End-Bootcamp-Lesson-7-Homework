@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 20px;
+    padding-top: 9px;
+    background-color: rgb(212, 206, 206);
+    }
+
+    .H1 {
+        color: red;
+        font-weight: 600;
+        font-size: 60px;
+        
+    }
+
+    .H2 {
+        color: blue;
+        font-weight: 500;
+        font-size: 55px;
+    }
+
+    .H3 {
+        color: green;
+        font-weight: 400;
+        font-size: 50px;
+    }
+
+    .H4 {
+        color: rgb(54, 76, 22);
+        font-weight: 300;
+        font-size: 45px;
+    }
+
+    .H5 {
+        color: blueviolet;
+        font-weight: 200;
+        font-size: 40px;
+    }
+
+    .H6 {
+        color: brown;
+        font-weight: 100;
+        font-size: 35px;
+    }
+
+    .first_section {
+        background-color: antiquewhite;
+    }
+
+    .second_section {
+        background-color: aliceblue;
+    }
+
+    .H2_second_section {
+        font-weight: 200;
+    }
+
+    .H3_second_section {
+        font-weight: 300;
+    }
+
+    .H4_second_section {
+        font-weight: 400;
+    }
+
+    .H5_second_section {
+        font-weight: 500;
+    }
+
+    .H6_second_section {
+        font-weight: 600;
+    }
+
+    .square_button {
+        display: inline-block;
+        padding: 20px;
+        margin-top: 20px;
+        text-decoration: none;
+        background-color:aqua;
+        color: black;
+        border: 3px solid green;
+        border-radius: 6px;
+        transition: cubic-bezier(0.075, 0.82, 0.165, 1);}
+
+    .square_button:hover {
+        background-color: blueviolet;
+            
+        }
+
+
+    
